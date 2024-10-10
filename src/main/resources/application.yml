@@ -3,7 +3,7 @@ spring:
     name: User-Module
   datasource:
          password: root
-         url: jdbc:mysql://43.205.101.87:3307/accountsdb
+         url: jdbc:mysql://43.205.101.87:3307/userdb
          username: root
   jpa:
      database-platform: org.hibernate.dialect.MySQLDialect
