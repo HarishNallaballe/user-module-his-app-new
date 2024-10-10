@@ -2,15 +2,14 @@ spring:
   application:
     name: User-Module
   datasource:
-         driver-class-name: com.mysql.cj.jdbc.Driver
-         password: abcd
-         url: jdbc:mysql://localhost:3306/nallaballe
+         password: root
+         url: jdbc:mysql://65.0.184.77:3307/accountsdb
          username: root
   jpa:
      database-platform: org.hibernate.dialect.MySQLDialect
      hibernate:
         ddl-auto: update
-        show-sql: true 
+     show-sql: true 
     
 server:
    port : 1001
