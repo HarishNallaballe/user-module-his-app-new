@@ -12,6 +12,6 @@ public final class AppConstants {
 	public static final String USER_FOUND="User Found with email : ";
 	public static final String AND_PASSWORD=" and password : ";
 	public static final String SIGNED_SUCCESFULLY="User Signed in Successfully";
-	public static final String NAME="GURUMAHESH";
+	public static final String NAME="GURUMAHESH3";
 	
 }
